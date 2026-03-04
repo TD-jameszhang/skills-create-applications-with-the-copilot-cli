@@ -1,0 +1,17 @@
+{
+  "name": "skills-create-applications-with-the-copilot-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TD-jameszhang/skills-create-applications-with-the-copilot-cli.git",
+  "author": "TD-JamesZhang <xiaojiao.zhang@talkdesk.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "jest": {
+    "testMatch": ["**/*.tests.js", "**/*.test.js"]
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
